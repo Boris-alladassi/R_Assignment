@@ -6,6 +6,7 @@
 Overall, good job! I like how you did a very thorough data inspection. You also did well by describing each chunk of code as it makes it easy to follow through.
 
 #### Suggestions
+#### Part I and II
 
 I would suggest you combine lines of codes together by using pipe `%>%`
 
